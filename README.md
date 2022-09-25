@@ -1,2 +1,2 @@
-# ada-santanderCoders_webFullStack
-Repository for Santander Coders bootcamp classes from ADA school
+# ada-bootcamps_and_exercises
+Repository for bootcamps classes from ADA school
